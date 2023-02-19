@@ -106,7 +106,7 @@
             <a
               href="/"
               class="text-2xl md:text-3xl font-medium text-primary-clamped"
-              >hue.tools</a
+              >tools4color</a
             >
             <button
               on:click={() => randomize()}
@@ -275,7 +275,11 @@
       <span>Made by</span>
       <a href="https://pabue.co" target="_blank" class="border-b border-current"
         >pabue.co</a
-      >u
+      >
+	    and
+	<a href="https://abclinks.vercel.app" target="_blank" class="border-b border-current"
+        >uvacoder</a
+      >    
     </div>
   </div>
 </div>
