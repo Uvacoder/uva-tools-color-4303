@@ -66,7 +66,7 @@
 </script>
 
 <svelte:head>
-  <title>hue.tools – modify</title>
+  <title>tools4color – modify</title>
 </svelte:head>
 
 <div class="flex flex-col xl:grid grid-cols-4 gap-10 container mx-auto">
