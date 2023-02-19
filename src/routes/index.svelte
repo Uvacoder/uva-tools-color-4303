@@ -20,7 +20,7 @@
   <title>tools4color</title>
 </svelte:head>
 
-
+<div class="flex-1 flex flex-col items-center justify-center relative">
   <div class="text-center">
     <h1
       class="text-5xl sm:text-7xl md:text-8xl font-bold mb-3 text-primary-clamped transition"
