@@ -17,31 +17,19 @@
 </script>
 
 <svelte:head>
-  <title>hue.tools</title>
+  <title>tools4color</title>
 </svelte:head>
 
-<div class="flex-1 flex flex-col items-center justify-center relative">
-  <a
-    href="https://www.producthunt.com/posts/hue-tools?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-hue-tools"
-    target="_blank"
-    class="absolute top-0 left-1/2 -translate-x-1/2"
-    ><img
-      src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=331426&theme=light"
-      alt="hue.tools - Intuitive open source toolbox for colors. | Product Hunt"
-      style="width: 250px; height: 54px;"
-      width="250"
-      height="54"
-    /></a
-  >
+
   <div class="text-center">
     <h1
       class="text-5xl sm:text-7xl md:text-8xl font-bold mb-3 text-primary-clamped transition"
     >
-      hue.tools
+      tools4color
     </h1>
     <p class="text-base sm:text-xl dark:text-gray-400 text-gray-500">
       An <a
-        href="https://github.com/pabueco/hue.tools"
+        href="https://github.com/uvacoder/uva-tools-color-4303"
         class="dark:text-gray-300 text-gray-800 hover:text-primary-clamped transition"
         target="_blank">open source</a
       > toolbox for colors.
