@@ -60,7 +60,7 @@
 </script>
 
 <svelte:head>
-  <title>hue.tools – blend</title>
+  <title>tools4color – blend</title>
 </svelte:head>
 
 <div class="flex-1 container mx-auto flex flex-col">
