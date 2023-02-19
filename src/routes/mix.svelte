@@ -129,7 +129,7 @@
 </script>
 
 <svelte:head>
-  <title>hue.tools – mix</title>
+  <title>tools4color – mix</title>
 </svelte:head>
 
 <div class="flex-1 container mx-auto max-w-6xl flex flex-col">
