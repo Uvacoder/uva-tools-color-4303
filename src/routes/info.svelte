@@ -80,7 +80,7 @@
 </script>
 
 <svelte:head>
-  <title>hue.tools – info</title>
+  <title>tools4color – info</title>
 </svelte:head>
 
 <div class="flex flex-col items-center">
