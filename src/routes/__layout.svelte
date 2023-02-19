@@ -249,13 +249,13 @@
   >
     <div>
       <a
-        href="https://vercel.com/?utm_source=pabueco&utm_campaign=oss"
+        href="https://vercel.com"
         target="_blank"
       >
         <img src="/powered-by-vercel.svg" alt="Powered by Vercel" class="h-9" />
       </a>
     </div>
-    <a href="https://github.com/pabueco/hue.tools" target="_blank">
+    <a href="https://github.com/uvacoder/uva-tools-color-4303" target="_blank">
       <svg
         height="24"
         aria-hidden="true"
@@ -275,7 +275,7 @@
       <span>Made by</span>
       <a href="https://pabue.co" target="_blank" class="border-b border-current"
         >pabue.co</a
-      >
+      >u
     </div>
   </div>
 </div>
