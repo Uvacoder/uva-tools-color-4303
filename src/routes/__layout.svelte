@@ -276,8 +276,8 @@
       <a href="https://pabue.co" target="_blank" class="border-b border-current"
         >pabue.co</a
       >
-	    and
-	<a href="https://abclinks.vercel.app" target="_blank" class="border-b border-current"
+      and
+      <a href="https://abclinks.vercel.app" target="_blank" class="border-b border-current"
         >uvacoder</a
       >    
     </div>
